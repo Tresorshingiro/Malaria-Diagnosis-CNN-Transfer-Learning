@@ -51,13 +51,12 @@ and ROC/AUC curves.
 
 | # | Model | Notebook | Type | Owner |
 |---|-------|----------|------|-------|
-| 1 | Baseline CNN | `Baseline_CNN__Model_1.ipynb` | Simple CNN (group-built) | Heroine|
-| 2 | Advanced CNN | `Advanced_CNN.ipynb` | Deeper CNN + augmentation/dropout | Celine|
-| 3 | VGG16 | `model3_vgg16.ipynb` | Pretrained transfer learning | Emmanuel |
+| 1 | Baseline CNN | `Baseline_CNN__Model_1.ipynb` | Baseline CNN | Heroine|
+| 2 | Advanced CNN | `Advanced_CNN.ipynb` | Advanced CNN | Celine|
+| 3 | VGG16 | `model3_vgg16.ipynb` | Model 3 VGG | Emmanuel |
 | 4 | ResNet50 | `model4_resnet50.ipynb` | Pretrained transfer learning | Tresor |
 | 5 | **MobileNetV2** | `model5_mobilenetv2.ipynb` | Pretrained transfer learning | **Jacques** |
 
-> Update the **Owner** column as teammates confirm their models.
 
 ---
 
